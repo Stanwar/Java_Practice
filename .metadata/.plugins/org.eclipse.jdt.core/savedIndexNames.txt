@@ -1,2 +1,1 @@
 INDEX VERSION 1.127+/Users/CRI/Documents/OneDrive/Coding/Eclipse/Java/.metadata/.plugins/org.eclipse.jdt.core
-3074455524.index
