@@ -95,32 +95,4 @@ public class LinkedList<T> {
 			temp.setNextNode(newNode);
 		}
 	}
-	// Remove node for the specified index
-	public T remove(int index){
-		T data = null;
-		
-		if (index == 1){
-			data = head.getData();
-			head = head.getNextNode();
-			return data;
-		}
-		else if( index == getSize()){
-			data = tail.getData();
-			tail = tail.getPrevNode();
-			return data;
-		}
-		else {
-			Node<T> temp = head;
-			for( int i = 1; i<= index;i++){
-				temp = temp.getNextNode();
-			}
-			
-			temp.getPrevNode().setNextNode(temp.getNextNode());
-			temp.getNextNode().setPrevNode(temp.getPrevNode());
-			temp = null;
-			
-		}
-
-		return data;
-	}
 }

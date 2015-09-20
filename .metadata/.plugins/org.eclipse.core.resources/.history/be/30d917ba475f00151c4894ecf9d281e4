@@ -104,7 +104,7 @@ public class LinkedList<T> {
 			head = head.getNextNode();
 			return data;
 		}
-		else if( index == getSize()){
+		else if( index = getSize()){
 			data = tail.getData();
 			tail = tail.getPrevNode();
 			return data;
@@ -120,6 +120,7 @@ public class LinkedList<T> {
 			temp = null;
 			
 		}
+		
 
 		return data;
 	}

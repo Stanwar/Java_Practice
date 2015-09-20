@@ -104,23 +104,16 @@ public class LinkedList<T> {
 			head = head.getNextNode();
 			return data;
 		}
-		else if( index == getSize()){
-			data = tail.getData();
-			tail = tail.getPrevNode();
-			return data;
+		
+		Node<T> temp = head;
+		for( int i = 1; i<= index;i++){
+			temp = temp.getNextNode();
 		}
-		else {
-			Node<T> temp = head;
-			for( int i = 1; i<= index;i++){
-				temp = temp.getNextNode();
-			}
-			
-			temp.getPrevNode().setNextNode(temp.getNextNode());
-			temp.getNextNode().setPrevNode(temp.getPrevNode());
-			temp = null;
-			
-		}
-
+		
+		temp.getPrevNode().setNextNode(temp.getNextNode());
+		temp.getNextNode().setPrevNode(temp.getPrevNode());
+		temp = null;
+		
 		return data;
 	}
 }

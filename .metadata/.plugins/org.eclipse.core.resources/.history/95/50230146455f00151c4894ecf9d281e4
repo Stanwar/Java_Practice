@@ -72,55 +72,8 @@ public class LinkedList<T> {
 			tail = newTailNode;
 		}
 	}
-	// inserting new node at a given index  
-	public void insertNodeAtIndex(T data,int index){
-		// If there is no node present
-		if(index <=0){
-			insertNodeFront(data);
-		}
-		else if (index > getSize() || index == getSize()){
-			insertNodeBack(data);
-		}
-		else {
-			Node<T> temp = head;
-			Node<T> newNode = new Node<T>(data);
-			
-			for(int i = 1 ; i< index;i++){
-				temp = temp.getNextNode();
-			}
-
-			temp.getNextNode().setPrevNode(newNode);
-			newNode.setNextNode(temp.getNextNode());
-			newNode.setPrevNode(temp);
-			temp.setNextNode(newNode);
-		}
-	}
-	// Remove node for the specified index
-	public T remove(int index){
-		T data = null;
+	// 
+	public void insertNodeAtIndex(){
 		
-		if (index == 1){
-			data = head.getData();
-			head = head.getNextNode();
-			return data;
-		}
-		else if( index == getSize()){
-			data = tail.getData();
-			tail = tail.getPrevNode();
-			return data;
-		}
-		else {
-			Node<T> temp = head;
-			for( int i = 1; i<= index;i++){
-				temp = temp.getNextNode();
-			}
-			
-			temp.getPrevNode().setNextNode(temp.getNextNode());
-			temp.getNextNode().setPrevNode(temp.getPrevNode());
-			temp = null;
-			
-		}
-
-		return data;
 	}
 }
