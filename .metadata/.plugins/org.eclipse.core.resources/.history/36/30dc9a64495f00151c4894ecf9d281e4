@@ -37,7 +37,7 @@ public class LinkedList<T> {
 	public void traverseBack(){
 		Node<T> temp = tail;
 		while(temp.getPrevNode() != null){
-			System.out.println(temp.getPrevNode().getData());
+			System.out.println(temp.getPrevNode());
 			temp = temp.getPrevNode();
 		}
 	}
