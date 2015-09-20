@@ -1,7 +1,7 @@
 // Creating Node class with Generics 
 public class Node<T> {
-	Node<T> prev;
-	Node<T> next;
+	Node prev;
+	Node next;
 	T data;
 	
 	public Node(){
@@ -30,7 +30,7 @@ public class Node<T> {
 		this.data = data;
 	}
 	//
-	public void setNextNode(Node<T> next){
+	public void setNextNode(Node next){
 		this.next = next;
 	}
 	//
@@ -38,7 +38,7 @@ public class Node<T> {
 		return next;
 	}
 	//
-	public void setPrevNode(Node<T> previous){
+	public void setPrevNode(Node previous){
 		this.prev = previous;
 	}
 	//
