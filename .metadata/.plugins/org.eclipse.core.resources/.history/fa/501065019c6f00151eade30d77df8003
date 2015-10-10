@@ -1,0 +1,40 @@
+import java.util.Hashtable;
+
+/*
+ * Algorithm to check if two strings are permutation of each other
+ */
+public class checkPermutation {
+	static String str1;
+	static String str2;
+	// Constructor
+	public checkPermutation(){
+		str1 = new String("");
+		str2 = new String("");
+	}
+	//
+	//
+	public static void main(String[] args){
+		str1 = "SHARAD";
+		str2 = "DARASH";
+		
+		Boolean Result = checkPermutation(); 
+		if(Result){
+			System.out.println("The number is a permutation ");
+		}
+		else{
+			System.out.println("The number is not a permutation ");
+		}
+		
+	}
+	
+	public static boolean checkPermutation(){
+		Hashtable h = new Hashtable();
+		for(char ch: str1.toCharArray()){
+			h.put(key, value)
+		}
+		for(char ch: str2.toCharArray()){
+			h.put(key, value)
+		}
+		return true;
+	}
+}

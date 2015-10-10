@@ -1,0 +1,18 @@
+
+
+public class UniqueElements {
+	public String elementToBeChecked;
+	//
+	public UniqueElements(){
+		elementToBeChecked = new String();
+	}
+	//
+	public static void main(String[] args){
+		
+	}
+	//
+	public int getUniqueElements(){
+		
+		return 0;
+	}
+}

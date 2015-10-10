@@ -1,0 +1,278 @@
+2015-10-05 15:41:03,934 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/maven-metadata.xml
+2015-10-05 15:41:03,987 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/maven-metadata.xml
+2015-10-05 15:41:04,046 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/3.0.0/maven-bundle-plugin-3.0.0.pom
+2015-10-05 15:41:04,080 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/3.0.0/maven-bundle-plugin-3.0.0.pom
+2015-10-05 15:41:04,116 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/felix-parent/3/felix-parent-3.pom
+2015-10-05 15:41:04,188 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/felix-parent/3/felix-parent-3.pom
+2015-10-05 15:41:04,224 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/17/apache-17.pom
+2015-10-05 15:41:04,261 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/17/apache-17.pom
+2015-10-05 15:41:04,298 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/3.0.0/maven-bundle-plugin-3.0.0.jar
+2015-10-05 15:41:04,438 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/felix/maven-bundle-plugin/3.0.0/maven-bundle-plugin-3.0.0.jar
+2015-10-05 15:41:04,538 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-OSGi:0.3.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/pom.xml.
+2015-10-05 15:41:04,775 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2015-10-05 15:41:04,811 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2015-10-05 15:41:04,912 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2015-10-05 15:41:04,983 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2015-10-05 15:41:05,775 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-API:0.0.1-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-API/pom.xml.
+2015-10-05 15:41:05,806 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-Core:0.3.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Core/pom.xml.
+2015-10-05 15:41:06,601 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:Matcher-BaseSimilarity:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-BaseSimilarity/pom.xml.
+2015-10-05 15:41:06,684 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-Matchers:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Matchers/pom.xml.
+2015-10-05 15:41:06,940 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:Matcher-PRA:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-PRA/pom.xml.
+2015-10-05 15:41:07,019 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:Matcher-AdvancedSimilarity:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-AdvancedSimilarity/pom.xml.
+2015-10-05 15:41:07,092 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:Matcher-OAEI:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-OAEI/pom.xml.
+2015-10-05 15:41:07,213 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-UI:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UI/pom.xml.
+2015-10-05 15:41:07,287 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-05 15:41:07,398 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:Matcher-LinkedOpenData:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-LinkedOpenData/pom.xml.
+2015-10-05 15:41:07,485 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-BatchMode:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-BatchMode/pom.xml.
+2015-10-05 15:41:07,556 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-CollaborationClient:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-CollaborationClient/pom.xml.
+2015-10-05 15:41:07,679 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-UserFeedback:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UserFeedback/pom.xml.
+2015-10-05 15:41:07,822 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-SemanticExplanation:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-SemanticExplanation/pom.xml.
+2015-10-05 15:41:07,850 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-UIGlue:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UIGlue/pom.xml.
+2015-10-05 15:41:07,918 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:Matcher-Benchmarks2013:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-Benchmarks2013/pom.xml.
+2015-10-05 15:41:08,035 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2015-10-05 15:41:08,073 [Worker-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2015-10-05 15:41:08,153 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.uic.cs.advis.am:AgreementMaker-IntegrationTests:0.3.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-IntegrationTests/pom.xml.
+2015-10-05 15:41:08,811 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using DEFAULT lifecycle mapping for MavenProject: edu.uic.cs.advis.am:Matcher-IMEI2013:1.0.0-SNAPSHOT @ /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-IMEI2013/pom.xml.
+2015-10-05 15:41:10,417 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-API/src/main/java
+2015-10-05 15:41:10,418 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-API/src/test/java
+2015-10-05 15:41:10,549 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-Core/src
+2015-10-05 15:41:10,550 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AgreementMaker-Core/resources
+2015-10-05 15:41:10,554 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-Core/test
+2015-10-05 15:41:10,817 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-Matchers/src/main/java
+2015-10-05 15:41:10,817 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-Matchers/src/test/java
+2015-10-05 15:41:10,941 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-BaseSimilarity/src/main/java
+2015-10-05 15:41:10,942 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-BaseSimilarity/src/test/java
+2015-10-05 15:41:11,034 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-AdvancedSimilarity/src/main/java
+2015-10-05 15:41:11,034 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-AdvancedSimilarity/src/test/java
+2015-10-05 15:41:11,119 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-PRA/src/main/java
+2015-10-05 15:41:11,119 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-PRA/src/test/java
+2015-10-05 15:41:11,221 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-OAEI/src/main/java
+2015-10-05 15:41:11,223 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-OAEI/src/test/java
+2015-10-05 15:41:11,297 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-UI/src/main/java
+2015-10-05 15:41:11,297 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-UI/src/test/java
+2015-10-05 15:41:11,384 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-LinkedOpenData/src/main/java
+2015-10-05 15:41:11,385 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-LinkedOpenData/src/test/java
+2015-10-05 15:41:11,482 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-IMEI2013/src/main/java
+2015-10-05 15:41:11,482 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-IMEI2013/src/test/java
+2015-10-05 15:41:11,581 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-BatchMode/src/main/java
+2015-10-05 15:41:11,581 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AgreementMaker-BatchMode/src/main/resources
+2015-10-05 15:41:11,584 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-BatchMode/src/test/java
+2015-10-05 15:41:11,584 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AgreementMaker-BatchMode/src/test/resources
+2015-10-05 15:41:11,697 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-CollaborationClient/src/main/java
+2015-10-05 15:41:11,697 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-CollaborationClient/src/test/java
+2015-10-05 15:41:11,931 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-UserFeedback/src/main/java
+2015-10-05 15:41:11,933 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-UserFeedback/src/test/java
+2015-10-05 15:41:12,184 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-IntegrationTests/src/main/java
+2015-10-05 15:41:12,187 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-IntegrationTests/src/test/java
+2015-10-05 15:41:12,797 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-SemanticExplanation/src/main/java
+2015-10-05 15:41:12,797 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-SemanticExplanation/src/test/java
+2015-10-05 15:41:12,835 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-Benchmarks2013/src/main/java
+2015-10-05 15:41:12,835 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Matcher-Benchmarks2013/src/test/java
+2015-10-05 15:41:12,912 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-UIGlue/src/main/java
+2015-10-05 15:41:12,912 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AgreementMaker-UIGlue/src/test/java
+2015-10-05 15:41:12,992 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 18 project(s) in 12 sec
+2015-10-05 15:41:14,025 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:14,026 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-API/src/main/resources
+2015-10-05 15:41:14,027 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:14,028 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-API/src/test/resources
+2015-10-05 15:41:17,968 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:17,991 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2015-10-05 15:41:18,031 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:18,031 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Core/src/test/resources
+2015-10-05 15:41:18,579 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:18,580 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-IntegrationTests/src/main/resources
+2015-10-05 15:41:18,581 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:18,582 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-IntegrationTests/src/test/resources
+2015-10-05 15:41:19,577 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:19,578 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Matchers/src/main/resources
+2015-10-05 15:41:19,578 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:19,578 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Matchers/src/test/resources
+2015-10-05 15:41:19,728 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:19,728 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-SemanticExplanation/src/main/resources
+2015-10-05 15:41:19,729 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:19,729 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-SemanticExplanation/src/test/resources
+2015-10-05 15:41:20,959 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:20,959 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-BaseSimilarity/src/main/resources
+2015-10-05 15:41:20,960 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:20,961 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-BaseSimilarity/src/test/resources
+2015-10-05 15:41:23,585 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-05 15:41:23,635 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:23,635 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UI/src/main/resources
+2015-10-05 15:41:23,636 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:23,637 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UI/src/test/resources
+2015-10-05 15:41:23,940 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:23,940 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-AdvancedSimilarity/src/main/resources
+2015-10-05 15:41:23,941 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:23,942 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-AdvancedSimilarity/src/test/resources
+2015-10-05 15:41:24,188 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:24,189 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-Benchmarks2013/src/main/resources
+2015-10-05 15:41:24,191 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:24,192 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-Benchmarks2013/src/test/resources
+2015-10-05 15:41:24,537 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:24,537 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-PRA/src/main/resources
+2015-10-05 15:41:24,538 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:24,538 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-PRA/src/test/resources
+2015-10-05 15:41:24,879 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:24,879 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-OAEI/src/main/resources
+2015-10-05 15:41:24,880 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:24,880 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-OAEI/src/test/resources
+2015-10-05 15:41:25,371 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-05 15:41:25,416 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:25,416 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-LinkedOpenData/src/main/resources
+2015-10-05 15:41:25,417 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:25,417 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-LinkedOpenData/src/test/resources
+2015-10-05 15:41:25,742 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:25,742 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-IMEI2013/src/main/resources
+2015-10-05 15:41:25,743 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:25,744 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-IMEI2013/src/test/resources
+2015-10-05 15:41:26,126 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:26,127 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-05 15:41:26,129 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:26,130 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-05 15:41:26,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:26,514 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-CollaborationClient/src/main/resources
+2015-10-05 15:41:26,515 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:26,515 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-CollaborationClient/src/test/resources
+2015-10-05 15:41:27,558 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-05 15:41:27,620 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:27,621 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UserFeedback/src/main/resources
+2015-10-05 15:41:27,622 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:27,622 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UserFeedback/src/test/resources
+2015-10-05 15:41:27,891 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-05 15:41:27,945 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:27,945 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UIGlue/src/main/resources
+2015-10-05 15:41:27,948 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 15:41:27,948 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UIGlue/src/test/resources
+2015-10-05 18:22:42,946 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:42,946 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-API/src/main/resources
+2015-10-05 18:22:42,947 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:42,947 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-API/src/test/resources
+2015-10-05 18:22:43,919 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:43,931 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-05 18:22:43,932 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:43,932 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Core/src/test/resources
+2015-10-05 18:22:44,140 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:44,141 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Matchers/src/main/resources
+2015-10-05 18:22:44,142 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:44,142 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Matchers/src/test/resources
+2015-10-05 18:22:44,159 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:44,160 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-SemanticExplanation/src/main/resources
+2015-10-05 18:22:44,160 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:44,160 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-SemanticExplanation/src/test/resources
+2015-10-05 18:22:44,381 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:44,381 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-BaseSimilarity/src/main/resources
+2015-10-05 18:22:44,382 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:44,382 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-BaseSimilarity/src/test/resources
+2015-10-05 18:22:44,580 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:44,581 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-AdvancedSimilarity/src/main/resources
+2015-10-05 18:22:44,582 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:44,582 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-AdvancedSimilarity/src/test/resources
+2015-10-05 18:22:44,808 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-05 18:22:44,851 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:44,852 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UI/src/main/resources
+2015-10-05 18:22:44,853 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:44,853 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UI/src/test/resources
+2015-10-05 18:22:45,098 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:45,098 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-Benchmarks2013/src/main/resources
+2015-10-05 18:22:45,100 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:45,100 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-Benchmarks2013/src/test/resources
+2015-10-05 18:22:45,449 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:45,449 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-PRA/src/main/resources
+2015-10-05 18:22:45,450 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:45,451 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-PRA/src/test/resources
+2015-10-05 18:22:46,299 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:46,300 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-OAEI/src/main/resources
+2015-10-05 18:22:46,300 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:46,300 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-OAEI/src/test/resources
+2015-10-05 18:22:46,662 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-05 18:22:46,700 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:46,701 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-LinkedOpenData/src/main/resources
+2015-10-05 18:22:46,702 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:46,702 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-LinkedOpenData/src/test/resources
+2015-10-05 18:22:46,893 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:46,894 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-05 18:22:46,894 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:46,894 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-05 18:22:47,093 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:47,093 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-CollaborationClient/src/main/resources
+2015-10-05 18:22:47,094 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:47,094 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-CollaborationClient/src/test/resources
+2015-10-05 18:22:47,414 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-05 18:22:47,706 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:47,706 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UserFeedback/src/main/resources
+2015-10-05 18:22:47,707 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:47,707 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UserFeedback/src/test/resources
+2015-10-05 18:22:47,996 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:47,996 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-IMEI2013/src/main/resources
+2015-10-05 18:22:47,996 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:47,996 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-IMEI2013/src/test/resources
+2015-10-05 18:22:48,216 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-05 18:22:48,295 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:48,295 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UIGlue/src/main/resources
+2015-10-05 18:22:48,296 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 18:22:48,296 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UIGlue/src/test/resources
+2015-10-10 15:27:59,721 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:27:59,779 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2015-10-10 15:27:59,799 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:27:59,799 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Core/src/test/resources
+2015-10-10 15:28:00,381 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:00,382 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Matchers/src/main/resources
+2015-10-10 15:28:00,383 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:00,383 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Matchers/src/test/resources
+2015-10-10 15:28:00,894 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-10 15:28:00,996 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:00,996 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UI/src/main/resources
+2015-10-10 15:28:00,998 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:00,998 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UI/src/test/resources
+2015-10-10 15:28:01,747 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:01,747 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-BaseSimilarity/src/main/resources
+2015-10-10 15:28:01,748 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:01,749 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-BaseSimilarity/src/test/resources
+2015-10-10 15:28:02,609 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:02,609 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-AdvancedSimilarity/src/main/resources
+2015-10-10 15:28:02,611 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:02,611 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-AdvancedSimilarity/src/test/resources
+2015-10-10 15:28:03,912 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:03,928 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2015-10-10 15:28:03,929 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:03,930 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Core/src/test/resources
+2015-10-10 15:28:04,662 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:04,662 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-PRA/src/main/resources
+2015-10-10 15:28:04,663 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:04,664 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-PRA/src/test/resources
+2015-10-10 15:28:05,006 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:05,009 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-OAEI/src/main/resources
+2015-10-10 15:28:05,012 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:05,012 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-OAEI/src/test/resources
+2015-10-10 15:28:05,317 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-10 15:28:05,372 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:05,372 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-LinkedOpenData/src/main/resources
+2015-10-10 15:28:05,373 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:05,373 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/Matcher-LinkedOpenData/src/test/resources
+2015-10-10 15:28:05,799 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:05,799 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-CollaborationClient/src/main/resources
+2015-10-10 15:28:05,800 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:05,800 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-CollaborationClient/src/test/resources
+2015-10-10 15:28:07,188 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:07,189 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2015-10-10 15:28:07,190 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:07,191 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-Core/src/test/resources
+2015-10-10 15:28:07,439 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-10 15:28:07,579 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:07,579 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UI/src/main/resources
+2015-10-10 15:28:07,581 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:07,581 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UI/src/test/resources
+2015-10-10 15:28:07,879 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:07,879 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-10-10 15:28:07,881 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:07,881 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-10-10 15:28:08,254 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-10 15:28:08,490 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:08,490 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UserFeedback/src/main/resources
+2015-10-10 15:28:08,491 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:08,491 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UserFeedback/src/test/resources
+2015-10-10 15:28:08,737 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jidesoft:jide-oss:jar:2.11.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2015-10-10 15:28:08,806 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:08,806 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UIGlue/src/main/resources
+2015-10-10 15:28:08,807 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-10 15:28:08,807 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/CRI/Documents/OneDrive/Coding/Class_Projects/CS586/AgreementMaker/agreementmaker/AgreementMaker-OSGi/AgreementMaker-UIGlue/src/test/resources

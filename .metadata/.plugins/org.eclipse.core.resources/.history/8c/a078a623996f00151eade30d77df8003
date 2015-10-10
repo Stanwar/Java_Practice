@@ -1,0 +1,14 @@
+/*
+ * Algorithm to check if a number is a permutation of another number
+ */
+public class checkPermutation {
+	int number;
+	int permutation;
+	public checkPermutation(){
+		number = 0;
+		permutation =0;
+	}
+	public static void main(String[] args){
+		
+	}
+}

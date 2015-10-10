@@ -1,0 +1,43 @@
+import java.util.Hashtable;
+
+/*
+ * Algorithm to check if two strings are permutation of each other
+ */
+public class checkPermutation {
+	static String str1;
+	static String str2;
+	// Constructor
+	public checkPermutation(){
+		str1 = new String("");
+		str2 = new String("");
+	}
+	//
+	//
+	public static void main(String[] args){
+		str1 = "SHARAD";
+		str2 = "DARASH";
+		
+		Boolean Result = checkPermutation(); 
+		if(Result){
+			System.out.println("The number is a permutation ");
+		}
+		else{
+			System.out.println("The number is not a permutation ");
+		}
+		
+	}
+	
+	public static boolean checkPermutation(){
+		Hashtable h = new Hashtable();
+		for(int i=0; i<=str1.toCharArray().length;i++){
+			if (h.containsKey(str1.charAt(i))){
+				h.put(str1.charAt(i),i + 1);
+			}
+		}
+		for(int i=0; i<=str1.toCharArray().length;i++){
+			h.put(ch, value)
+		}
+		
+		return true;
+	}
+}

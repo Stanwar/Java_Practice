@@ -1,0 +1,19 @@
+
+
+public class UniqueElements {
+	public static String elementToBeChecked;
+	//
+	public UniqueElements(){
+		elementToBeChecked = new String();
+	}
+	//
+	public static void main(String[] args){
+		elementToBeChecked = "Sharad";
+		getUniqueElements();
+	}
+	//
+	public static int getUniqueElements(){
+		
+		return 0;
+	}
+}

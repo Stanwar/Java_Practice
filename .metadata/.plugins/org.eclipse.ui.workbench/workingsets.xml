@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1444077660020_1" label="AgreementMaker-OSGi" name="AgreementMaker-OSGi">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Matcher-LinkedOpenData" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-SemanticExplanation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-Matchers" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-UIGlue" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Matcher-BaseSimilarity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-BatchMode" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Matcher-AdvancedSimilarity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-API" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-UserFeedback" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Matcher-PRA" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-UI" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-OSGi" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-Core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-IntegrationTests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Matcher-IMEI2013" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Matcher-OAEI" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/AgreementMaker-CollaborationClient" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Matcher-Benchmarks2013" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1442092065784_0" label="Window Working Set" name="Aggregate for window 1442092065784"/>
 </workingSetManager>

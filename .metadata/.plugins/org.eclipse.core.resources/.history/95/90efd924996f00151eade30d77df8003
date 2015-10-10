@@ -1,0 +1,29 @@
+/*
+ * Algorithm to check if a number is a permutation of another number
+ */
+public class checkPermutation {
+	int number;
+	int permutation;
+	public checkPermutation(){
+		number = 0;
+		permutation =0;
+	}
+	//
+	//
+	public static void main(String[] args){
+		
+		Boolean Result = checkPermutation(); 
+		if(Result){
+			System.out.println("The number is a permutation ");
+		}
+		else{
+			System.out.println("The number is not a permutation");
+		}
+		
+	}
+	
+	public static boolean checkPermutation(){
+		
+		return true;
+	}
+}

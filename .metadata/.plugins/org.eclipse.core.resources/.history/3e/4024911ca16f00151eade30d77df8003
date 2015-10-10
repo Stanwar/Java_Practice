@@ -1,0 +1,60 @@
+import java.util.Hashtable;
+
+/*
+ * Algorithm to check if two strings are permutation of each other
+ */
+public class checkPermutation {
+	static String str1;
+	static String str2;
+	// Constructor
+	public checkPermutation(){
+		str1 = new String("");
+		str2 = new String("");
+	}
+	//
+	//
+	public static void main(String[] args){
+		str1 = "SHARAD";
+		str2 = "DARASH";
+		
+		Boolean Result = checkPermutation(); 
+		if(Result){
+			System.out.println("The number is a permutation ");
+		}
+		else{
+			System.out.println("The number is not a permutation ");
+		}
+		
+	}
+	
+	public static boolean checkPermutation(){
+		Hashtable h = new Hashtable();
+		Hashtable h2 = new Hashtable();
+		Boolean Result;
+		for(int i=0; i<str1.toCharArray().length;i++){
+			if (h.containsKey(str1.charAt(i))){
+				h.put(str1.charAt(i),i + 1);
+				System.out.println(h.get(str1.charAt(i)));
+			}
+			else {
+				h.put(str1.charAt(i),i);
+				System.out.println(h.get(str1.charAt(i)));
+			}
+		}
+		
+		for(int i=0; i<str2.toCharArray().length;i++){
+			if (h2.containsKey(str2.charAt(i))){
+				h2.put(str2.charAt(i),i + 1);
+				System.out.println(h2.get(str2.charAt(i)));
+			}
+			else {
+				h2.put(str2.charAt(i),i);
+				System.out.println(h2.get(str2.charAt(i)));
+			}
+		}
+		
+		Result = h.keySet().equals(h2.keySet());
+		
+		return Result;
+	}
+}
